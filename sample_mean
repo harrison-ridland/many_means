@@ -1,3 +1,12 @@
+#' Puts the various parts of speech together into a full phrase.
+#'
+#' @param vec A vector of numbers
+#' @param n An integer
+#'
+#' @return A sample mean drawn from the values
+#'
+#' @export
+
 add_value = function(vector, spot){
   return(vector[spot])
 }
