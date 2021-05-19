@@ -1,3 +1,0 @@
-export(sample_mean)
-export(many_sample_means)
-export(sample_means_ns)
