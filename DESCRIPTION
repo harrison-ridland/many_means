@@ -1,0 +1,12 @@
+Package: many_means
+Title: create sample means
+Version: 1
+Authors@R: 
+    person(given = "Harrison",
+           family = "Ridland")
+Description: This is a practice package for coursework.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
