@@ -1,9 +1,11 @@
 Package: many_means
 Title: create sample means
-Version: 1
+Version: 0.0.0.9000
 Authors@R: 
     person(given = "Harrison",
-           family = "Ridland")
+           family = "Ridland",
+           role = c("aut", "cre"),
+           email = "harrison.ridland@gmail.com")
 Description: This is a practice package for coursework.
 License: What license it uses
 Encoding: UTF-8
