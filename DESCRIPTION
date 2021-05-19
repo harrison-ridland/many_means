@@ -1,4 +1,4 @@
-Package: many_means
+Package: "many_means"
 Title: create sample means
 Version: 0.0.0.9000
 Authors@R: 
